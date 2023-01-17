@@ -1,3 +1,4 @@
+# lecture_7    
 # Самостоятельная работа
 ![image](https://user-images.githubusercontent.com/113675674/195058001-01fd0a79-423d-463c-8d73-2592c4b07b31.png)
 1. структура ![image](https://user-images.githubusercontent.com/113675674/195058076-c4e07391-ca44-4e5d-845e-b06533fecc7a.png)  
